@@ -1,0 +1,16 @@
+theme = "gruvbox_material_dark_hard"
+
+[editor]
+true-color = true
+line-number = "relative"
+bufferline = "multiple"
+
+[editor.lsp]
+display-inlay-hints = true
+
+[editor.indent-guides]
+render = true
+skip-levels = 1
+
+[editor.soft-wrap]
+enable = true
